@@ -1,0 +1,22 @@
+{
+  "name": "platziverse-db",
+  "version": "1.0.0",
+  "description": "A simple iot platform",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Klupzor/IoT-nodeJs.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Klupzor/IoT-nodeJs/issues"
+  },
+  "homepage": "https://github.com/Klupzor/IoT-nodeJs#readme",
+  "devDependencies": {
+    "standard": "^10.0.3"
+  }
+}
